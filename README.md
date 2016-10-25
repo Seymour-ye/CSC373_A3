@@ -13,6 +13,10 @@
 
  - how the result varies with V
  
+ As the weight of MST increased, the runtime increased as well, but the output is around the same.
+ As shown above, the Runtime is increasing sharply from 2 times to the previous one to around 80 times to the previous one, but the Output is always around 3.5
+ 
+ 
 # RandomMST
 
  - how you coded the algorithm
@@ -28,3 +32,5 @@
 
  - how the result varies with V
  
+ As the weight of MST increased, the runtime increased as well, but the output is around the same.
+ As shown above, the Runtime is increasing sharply from 2 times to the previous one to around 20 times to the previous one, but the Output is always around 1.2
