@@ -3,7 +3,7 @@
 
  ## a table showing the runtime and output 
  
-| First Header  | Second Header |
+| V  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
