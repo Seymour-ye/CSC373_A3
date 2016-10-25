@@ -3,10 +3,10 @@
 
  ## a table showing the runtime and output 
  
-| V  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| V  | Output |Runtime |
+| ------------- | ------------- |------------- |
+| Content Cell  | Content Cell  |Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  
 
  ## how the result varies with V
  
