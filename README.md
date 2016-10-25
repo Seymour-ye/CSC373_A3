@@ -1,7 +1,8 @@
 # CircleMST
- ## how you coded the algorithm
 
- ## a table showing the runtime and output 
+ - how you coded the algorithm
+
+ - a table showing the runtime and output 
  
 | V  | Output |Runtime |
 | ------------- | ------------- |------------- |
@@ -10,7 +11,7 @@
 | 1000  | 0.148571428571429  | 3.70289823919542 |
 | 10000 | 10.9747142857143  | 3.78338108948945 |
 
- ## how the result varies with V
+ - how the result varies with V
  
 
 # RandomMST
